@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="skills">Skills</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="done">Done</string>
+    <string name="deepLearning">Deep Learning</string>
+    <string name="viewWebsite">View Website</string>
+    <string name="provinceCity">Province City</string>
+    <string name="tehran">Tehran</string>
+    <string name="alborzKaraj">alborz,Karaj</string>
+    <string name="gilanRasht">gilan,Rasht</string>
+    <string name="saveInformation">Save Information</string>
+    <string name="androidDevelopment">Android Development</string>
+    <string name="uiDesign">Ui Design</string>
+    <string name="editTextProfile">enter your full name....</string>
+
+</resources>

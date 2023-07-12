@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">رابط کاربری</string>
+    <string name="skills">مهارت</string>
+    <string name="editProfile">تغییر پروفایل</string>
+    <string name="done">انجام</string>
+    <string name="deepLearning">یادگیری عمیق</string>
+    <string name="viewWebsite">بازدید از سایت</string>
+    <string name="provinceCity">شهر/استان</string>
+    <string name="tehran">تهران</string>
+    <string name="alborzKaraj">البرز,کرج</string>
+    <string name="gilanRasht">گیلان,رشت</string>
+    <string name="saveInformation">ذخیره اطلاعات</string>
+    <string name="androidDevelopment">توسعه دهنده اندروید</string>
+    <string name="uiDesign">ساختن رابط کاربری</string>
+    <string name="editTextProfile">نام و نام خانوادگی خود را وارد کن</string>
+</resources>
