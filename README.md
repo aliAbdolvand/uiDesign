@@ -1,4 +1,4 @@
 # uiDesign
 testUiDesign
-just training d
+just training da
 
